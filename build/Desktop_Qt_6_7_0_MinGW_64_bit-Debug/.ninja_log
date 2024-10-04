@@ -1,0 +1,47 @@
+# ninja log v5
+2539	7821	7381873505505306	CMakeFiles/PMT.dir/SignupDialog.cpp.obj	ad8d98e587dc6c0a
+17	271	7381920386872918	C:/Users/Student/Downloads/Project Management Tool/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/PMT_autogen/timestamp	8a3457cef13bdf6e
+17	271	7381920386872918	PMT_autogen/mocs_compilation.cpp	8a3457cef13bdf6e
+17	271	7381920386872918	PMT_autogen/timestamp	8a3457cef13bdf6e
+17	271	7381920386872918	C:/Users/Student/Downloads/Project Management Tool/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/PMT_autogen/mocs_compilation.cpp	8a3457cef13bdf6e
+2504	2660	7381873453549990	CMakeFiles/PMT.dir/project.cpp.obj	7d904f7408f58cb2
+2515	7785	7381873505006663	CMakeFiles/PMT.dir/editprojectdialog.cpp.obj	16221d5eb1518dd2
+294	5100	7381920435154698	CMakeFiles/PMT.dir/PMT_autogen/mocs_compilation.cpp.obj	a1a89109685c32e2
+2520	7803	7381873505266969	CMakeFiles/PMT.dir/addstorydialog.cpp.obj	6a237a964453176c
+2532	7850	7381873505630145	CMakeFiles/PMT.dir/loginDialog.cpp.obj	4e285666906cdd39
+2528	8309	7381873510323223	CMakeFiles/PMT.dir/database.cpp.obj	17af549ec895ca1f
+298	4926	7381920433437056	CMakeFiles/PMT.dir/main.cpp.obj	49bcec247e9a2c40
+303	5507	7381920439229990	CMakeFiles/PMT.dir/mainwindow.cpp.obj	2d0ec003419f9976
+5507	6218	7381920446262368	PMT.exe	1be62cf2867ce4c6
+17	250	7381922338741828	PMT_autogen/timestamp	8a3457cef13bdf6e
+17	250	7381922338741828	PMT_autogen/mocs_compilation.cpp	8a3457cef13bdf6e
+17	250	7381922338741828	C:/Users/Student/Downloads/Project Management Tool/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/PMT_autogen/timestamp	8a3457cef13bdf6e
+17	250	7381922338741828	C:/Users/Student/Downloads/Project Management Tool/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/PMT_autogen/mocs_compilation.cpp	8a3457cef13bdf6e
+271	4628	7381922382518087	CMakeFiles/PMT.dir/main.cpp.obj	49bcec247e9a2c40
+268	5154	7381922387789455	CMakeFiles/PMT.dir/PMT_autogen/mocs_compilation.cpp.obj	a1a89109685c32e2
+274	5546	7381922391703520	CMakeFiles/PMT.dir/mainwindow.cpp.obj	2d0ec003419f9976
+5546	6304	7381922399206076	PMT.exe	1be62cf2867ce4c6
+17	261	7381924824013971	PMT_autogen/timestamp	8a3457cef13bdf6e
+17	261	7381924824013971	PMT_autogen/mocs_compilation.cpp	8a3457cef13bdf6e
+17	261	7381924824013971	C:/Users/Student/Downloads/Project Management Tool/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/PMT_autogen/timestamp	8a3457cef13bdf6e
+17	261	7381924824013971	C:/Users/Student/Downloads/Project Management Tool/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/PMT_autogen/mocs_compilation.cpp	8a3457cef13bdf6e
+284	4651	7381924867856081	CMakeFiles/PMT.dir/main.cpp.obj	49bcec247e9a2c40
+280	5155	7381924872952435	CMakeFiles/PMT.dir/PMT_autogen/mocs_compilation.cpp.obj	a1a89109685c32e2
+287	5451	7381924875895294	CMakeFiles/PMT.dir/mainwindow.cpp.obj	2d0ec003419f9976
+5451	6165	7381924883004040	PMT.exe	1be62cf2867ce4c6
+25	296	7381936764250646	PMT_autogen/timestamp	8a3457cef13bdf6e
+25	296	7381936764250646	PMT_autogen/mocs_compilation.cpp	8a3457cef13bdf6e
+25	296	7381936764250646	C:/Users/Student/Downloads/Project Management Tool/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/PMT_autogen/timestamp	8a3457cef13bdf6e
+25	296	7381936764250646	C:/Users/Student/Downloads/Project Management Tool/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/PMT_autogen/mocs_compilation.cpp	8a3457cef13bdf6e
+322	4846	7381936809749874	CMakeFiles/PMT.dir/main.cpp.obj	49bcec247e9a2c40
+314	5247	7381936813768083	CMakeFiles/PMT.dir/PMT_autogen/mocs_compilation.cpp.obj	a1a89109685c32e2
+318	5757	7381936818864494	CMakeFiles/PMT.dir/mainwindow.cpp.obj	2d0ec003419f9976
+5757	6477	7381936826032132	PMT.exe	1be62cf2867ce4c6
+15	225	7381937214818360	PMT_autogen/timestamp	8a3457cef13bdf6e
+15	225	7381937214818360	PMT_autogen/mocs_compilation.cpp	8a3457cef13bdf6e
+15	225	7381937214818360	C:/Users/Student/Downloads/Project Management Tool/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/PMT_autogen/timestamp	8a3457cef13bdf6e
+15	225	7381937214818360	C:/Users/Student/Downloads/Project Management Tool/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/PMT_autogen/mocs_compilation.cpp	8a3457cef13bdf6e
+246	3536	7381937247909044	CMakeFiles/PMT.dir/main.cpp.obj	49bcec247e9a2c40
+243	4006	7381937252617747	CMakeFiles/PMT.dir/PMT_autogen/mocs_compilation.cpp.obj	a1a89109685c32e2
+249	4304	7381937255586826	CMakeFiles/PMT.dir/mainwindow.cpp.obj	2d0ec003419f9976
+4304	4985	7381937262362114	PMT.exe	1be62cf2867ce4c6
